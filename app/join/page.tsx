@@ -24,7 +24,7 @@ export default function RecruitmentPage() {
       <section className="py-20">
         <div className="container w-100">
           <div className="items-center text-center text-bold text-3xl">
-            <h1>Duke Venture Group Spring 2026</h1>
+            <h1>Duke Venture Group Spring 2026 applications are closed</h1>
             <div className="text-center mt-6">
           
             </div>
