@@ -7,12 +7,12 @@ export function Partners() {
       logo: "/images/partners/duke-i&e.png",
     },
     {
-      name: "Duke Capital Partners",
-      logo: "/images/partners/duke-cap-partners.jpg",
+      name: "LvLup Ventures",
+      logo: "/images/partners/lvlup-ventures.jpeg",
     },
     {
-      name: "Straylight Capital",
-      logo: "/images/partners/straylight.jpeg",
+      name: "Harbright Ventures",
+      logo: "/images/partners/harbright-ventures.jpg",
     },
     {
       name: "Techstars",
@@ -46,9 +46,13 @@ export function Partners() {
       name: "HOF Capital",
       logo: "/images/partners/hof.png",
     },
+     {
+      name: "Real Sports App",
+      logo: "/images/partners/real-sports-app.png"
+    },
     {
-      name: "Real Sports",
-      logo: "/images/partners/real-sports.jpeg"
+      name: "Cottonwood Technology Fund",
+      logo: "/images/partners/cottonwood-technology-fund.png"
     }
   ]
 
@@ -64,9 +68,9 @@ export function Partners() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 gap-12 items-center max-w-7xl mx-auto">
+        <div className="flex flex-wrap justify-center gap-12 items-center max-w-7xl mx-auto">
           {partners.map((partner, index) => (
-            <div key={index} className="flex items-center justify-center">
+            <div key={index} className="flex items-center justify-center w-32 sm:w-40 lg:w-48">
               <div className="relative w-full h-20 flex items-center justify-center">
                 <Image
                   src={partner.logo || "/placeholder.svg"}
