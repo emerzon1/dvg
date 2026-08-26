@@ -39,7 +39,7 @@ export default function RecruitmentPage() {
         <div className="container">
           <div className="items-center">
             <h2 className="text-3xl md:text-4xl font-semibold mb-6 text-primary-900">Our Training Program</h2>
-            <p className="text-lg font-light tracking-wide leading-relaxed opacity-90">
+            <p className="text-lg font-light tracking-wide leading-relaxed opacity-90 text-primary-900">
               This curriculum combines hands-on workshops and case-based learning to build core competencies in startup sourcing and evaluation, investment thesis construction, market research and due diligence fundamentals, and communication of insights and recommendations. The program also culminates in an internal investment competition, with the winning team earning the opportunity to represent Duke at the Venture Capital Investment Competition (VCIC), hosted nationally at UNC.
             </p>
           </div>
