@@ -12,7 +12,7 @@ export function ExecutiveBoard() {
     {
       name: "Santiago Lattuada",
       title: "President",
-      image: "/images/members/SantiH.png",
+      image: "/images/members/SantiH.jpeg",
       imagePosition: "center 35%"
     },
     {
@@ -22,9 +22,9 @@ export function ExecutiveBoard() {
       imagePosition: "center 45%"
     },
     {
-      name: "Nathan Wong",
+      name: "Augustine Barreirinhas",
       title: "Executive Vice President",
-      image: "/images/members/NathanH.png",
+      image: "/images/members/AugieH.png",
       imagePosition: "center 50%"
     },
     {
@@ -44,15 +44,15 @@ export function ExecutiveBoard() {
       image: "/images/members/DevH.png",
     },
     {
-      name: "Augustine Barreirinhas",
+      name: "Sloane Conway",
       title: "VP of Partnerships",
-      image: "/images/members/AugieH.png",
+      image: "/images/members/SloaneH.png",
       imagePosition: "center 40%",
     },
     {
-      name: "Sloane Conway",
-      title: "Vice President of Education",
-      image: "/images/members/SloaneH.png",
+      name: "Nathan Wong",
+      title: "VP of Partnerships",
+      image: "/images/members/NathanH.png",
       imagePosition: "center 40%",
     },
     {
