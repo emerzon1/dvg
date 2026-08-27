@@ -10,77 +10,62 @@ interface BoardMember {
 export function ExecutiveBoard() {
   const boardMembers: BoardMember[] = [
     {
-      name: "Nate Goldin",
-      title: "Founder & President",
-      image: "/images/members/nathan-goldin.jpg",
+      name: "Santiago Lattuada",
+      title: "President",
+      image: "/images/members/SantiH.png",
       imagePosition: "center 35%"
     },
     {
-      name: "Diego Keller",
-      title: "Co-Founder & Executive Vice President",
-      image: "/images/members/diego-keller.jpg",
+      name: "Devansh Roongta",
+      title: "Executive Vice President",
+      image: "/images/members/DevanshH.png",
       imagePosition: "center 45%"
     },
     {
-      name: "Sam Elkin",
-      title: "Co-Founder & Executive Vice President",
-      image: "/images/members/sam-elkin.png",
+      name: "Nathan Wong",
+      title: "Executive Vice President",
+      image: "/images/members/NathanH.png",
       imagePosition: "center 50%"
     },
     {
-      name: "Terrence Ware",
-      title: "Co-Founder & Vice President of Finance",
-      image: "/images/members/terrence-ware.jpg",
+      name: "Rishi Shah",
+      title: "VP of Administration",
+      image: "/images/members/RishiH.png",
     },
     {
-      name: "Akshara Krishna",
-      title: "Vice President of Professional",
-      image: "/images/members/akshara-krishna.jpg",
+      name: "Solene Luttway",
+      title: "VP of Education",
+      image: "/images/members/SoleneH.png",
       imagePosition: "center 63%",
     },
     {
-      name: "Sami Moudarres",
-      title: "Vice President of Administration",
-      image: "/images/members/sami-moudarres.jpg",
+      name: "Dev Dwivedy",
+      title: "VP of Education",
+      image: "/images/members/DevH.png",
     },
     {
-      name: "Alexa Jacob",
-      title: "Vice President of Membership",
-      image: "/images/members/alexa-jacob.jpg",
+      name: "Augustine Barreirinhas",
+      title: "VP of Partnerships",
+      image: "/images/members/AugieH.png",
       imagePosition: "center 40%",
     },
     {
-      name: "Natalie Miner",
+      name: "Sloane Conway",
       title: "Vice President of Education",
-      image: "/images/members/natalie-miner.jpg",
+      image: "/images/members/SloaneH.png",
       imagePosition: "center 40%",
     },
     {
-      name: "Tommy Brennan",
-      title: "Vice President of Education",
-      image: "/images/members/tommy-brennan.jpg",
+      name: "Liza Howard",
+      title: "VP of Recruiting",
+      image: "/images/members/LizaH.png",
     },
-    {
-      name: "Lauren Hollar",
-      title: "Vice President of Recruitment",
-      image: "/images/members/lauren-hollar.jpg",
-      imagePosition: "center 56%",
+     {
+      name: "Akshara Datla",
+      title: "VP of Technology",
+      image: "/images/members/AksharaH.png",
     },
-    {
-      name: "Vanessa Dare",
-      title: "Vice President of Recruitment",
-      image: "/images/members/vanessa-dare.jpg",
-    },
-    {
-      name: "Evan Merzon",
-      title: "Vice President of Tech",
-      image: "/images/members/evan-merzon.jpg",
-    },
-    {
-      name: "Chase Baxter",
-      title: "Vice President of Tech",
-      image: "/images/members/chase-baxter.jpg",
-    },
+    
   ]
 
   return (
