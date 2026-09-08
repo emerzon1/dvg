@@ -13,9 +13,9 @@ export default function RecruitmentPage() {
               <div>
                 <h1 className="text-4xl md:text-5xl font-extralight mb-6 tracking-wider">Recruitment</h1>
               </div>
-                <p className="text-lg font-light tracking-wide leading-relaxed opacity-90">
-                  Join Duke Venture Group — where driven individuals become future leaders in venture capital. Each year, we selectively admit a small cohort of analysts who demonstrate a strong work ethic, a results-driven mindset, and most importantly, a genuine passion for learning and growth. As a member of DVG, you’ll gain unparalleled hands-on experience in a collaborative environment that blends professional development with a vibrant community, offering insights and opportunities far beyond the classroom.
-                </p>
+              <p className="text-lg font-light tracking-wide leading-relaxed opacity-90">
+                Join Duke Venture Group — where driven individuals become future leaders in venture capital. Each year, we selectively admit a small cohort of analysts who demonstrate a strong work ethic, a results-driven mindset, and most importantly, a genuine passion for learning and growth. As a member of DVG, you'll gain unparalleled hands-on experience in a collaborative environment that blends professional development with a vibrant community, offering insights and opportunities far beyond the classroom.
+              </p>
             </div>
             <img src="images/members/teamPhoto.png" />
           </div>
@@ -24,9 +24,17 @@ export default function RecruitmentPage() {
       <section className="py-20">
         <div className="container w-100">
           <div className="items-center text-center text-bold text-3xl">
-            <h1>Duke Venture Group Spring 2026 applications are closed</h1>
+            <h1>Duke Venture Group Fall 2026 applications are now open!</h1>
             <div className="text-center mt-6">
-          
+              
+                <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdmR1LX3WF6OFiIBoabjTMQ2e-91Y-sCzj-xjq8rJml6Dzk_w/viewform"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block bg-primary-900 text-white px-8 py-3 rounded-md font-medium hover:bg-primary-800 transition-colors text-base"
+              >
+                Apply Now
+              </a>
             </div>
           </div>
         </div>
