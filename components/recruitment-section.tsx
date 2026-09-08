@@ -38,7 +38,7 @@ export function RecruitmentSection() {
     {
       question: "Are there any eligibility requirements?",
       answer:
-        "Yes. Recruitment is open only to first-year students at Duke. We welcome applicants from all majors and backgrounds—no prior experience in venture capital or entrepreneurship is required.",
+        "Yes. Recruitment is open to freshman and sophomores at Duke. We welcome applicants from all majors and backgrounds—no prior experience in venture capital or entrepreneurship is required.",
     },
     {
       question: "What leadership opportunities exist within DVG?",
